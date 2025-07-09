@@ -1,7 +1,7 @@
 ## Hello World! 🌎
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas da UTFPR
-- 🌱 No momento, estou apredendo desenvolvimento Java para serviços WEB
+- 🌱 No momento, participando de atividades de desenvolvimento de RPA
 
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Spessoto&layout=compact&theme=dark)
