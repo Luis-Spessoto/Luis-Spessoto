@@ -1,7 +1,7 @@
 ## Hello World! 🌎
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas da UTFPR
-- 🌱 No momento, participando de atividades de desenvolvimento e sustentação de aplicações de RPA
+- 🌱 No momento, atuando como estagiário focado em atividades de desenvolvimento e sustentação de aplicações de RPA em UiPath
 
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Spessoto&layout=compact&theme=dark)
